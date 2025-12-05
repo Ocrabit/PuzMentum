@@ -5,3 +5,5 @@ PuzMentum is a momentum-based puzzle game built around a simple core idea: you c
 The game blends physics-driven movement with puzzle solving, forcing you to think about momentum, positioning, and timing all at once.
 
 PuzMentum was built in **Unity**, and the project gave me a great chance to sharpen my **C#** skills while experimenting with puzzle design and fun mechanics. It was a creative challenge and allowed me to exercise more of the artistic side of my skill set (I am no artist by any standards, but creativity is always a blast)
+
+You can play the game here: [PuzMentum](https://ocramaru.itch.io/puzmentum) on itch.io
